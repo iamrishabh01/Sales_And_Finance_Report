@@ -9,7 +9,7 @@ Evaluation of financial performance, support decision-making, and facilitate com
 1. Create a [customer performance report](https://github.com/iamrishabh01/Sales_And_Finance_Report/blob/main/Customer%20Performance%20Report.pdf).
 
 
-2. Conduct a comprehensive comparison between market performance and sales targets
+2. Conduct a [comprehensive comparison between market performance and sales targets](https://github.com/iamrishabh01/Sales_And_Finance_Report/blob/main/Market%20Performance%20Vs%20Target.pdf).
 
 Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -21,7 +21,7 @@ Role of reports: Determine effective customer discounts, facilitate negotiations
 
 Project objective:
 
-1. Create Profit and Loss (P&L) reports by Fiscal Year & Months
+1. Create Profit and Loss (P&L) reports by [Fiscal Year] & [Months]
 
 2. Create Profit and Loss (P&L) reports by Markets
 
