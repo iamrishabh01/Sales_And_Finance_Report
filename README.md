@@ -4,6 +4,25 @@
 
 Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders. Importance of analyzing Finance data: Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting. Role of reports: Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
+# Project Details
+
+**Steps in Making this Report-**
+
+1. ETL (Extract Transform Load) Process
+Loaded and processed CSV files in Power Query, ensuring data integrity, uniqueness, and correcting errors before integrating into Power Pivot.
+
+2. Data Modeling
+Implemented a star schema, created dim_date table with a fiscal year perspective, ensuring seamless integration with other tables.
+
+3. Pivot Table and Power Pivot Integration
+Integrated the data model with a Pivot Table for quick analysis, utilizing Power Pivot for efficient data transformation and connectivity.
+
+4. DAX (Data Analysis Expressions) Formulas
+Developed 10+ new measures and columns using DAX, including Net Sales, Gross Margin, GM%, COGS, and applied a fiscal year perspective for deeper insights.
+
+5. Conditional Formatting
+Applied Conditional Formatting to enhance data presentation, highlighting key information, identifying trends, and improving overall data readability for effective analysis.
+
 # Project objective:
 
 1. Create a [customer performance report](https://github.com/iamrishabh01/Sales_And_Finance_Report/blob/main/Customer%20Performance%20Report.pdf).
