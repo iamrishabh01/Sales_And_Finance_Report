@@ -45,7 +45,7 @@ Role of reports: Align financial planning with strategic goals Instill confidenc
 - [x]	Ability to derive fiscal months and quarters.
 - [x]	Establishing data model relationships with Power Pivot.
 - [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+- [x]	Utilizing DAX to create calculated columns. 
 
 ## Soft Skills:
 - [x]	Refined understanding of Sales & Finance Reports
