@@ -6,7 +6,7 @@ Evaluation of financial performance, support decision-making, and facilitate com
 
 # Project objective:
 
-1. Create [Link to the PDF](customer performance report](https://github.com/iamrishabh01/Sales_And_Finance_Report/blob/main/Customer%20Performance%20Report.pdf).
+1. Create a [customer performance report](https://github.com/iamrishabh01/Sales_And_Finance_Report/blob/main/Customer%20Performance%20Report.pdf).
 
 
 2. Conduct a comprehensive comparison between market performance and sales targets
