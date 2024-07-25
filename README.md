@@ -11,6 +11,8 @@ Evaluation of financial performance, support decision-making, and facilitate com
 
 2. Conduct a [comprehensive comparison between market performance and sales targets](https://github.com/iamrishabh01/Sales_And_Finance_Report/blob/main/Market%20Performance%20Vs%20Target.pdf).
 
+3. Create a [Division Level Report](https://github.com/iamrishabh01/Sales_And_Finance_Report/blob/main/Dvision%20Level%20Report.pdf)
+
 Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance.
 
 Importance of analyzing sales data: Identify sales patterns and track key performance indicators (KPIs).
