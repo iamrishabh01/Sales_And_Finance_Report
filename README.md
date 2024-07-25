@@ -6,7 +6,7 @@ Evaluation of financial performance, support decision-making, and facilitate com
 
 # Project objective:
 
-1. Create a _customer performance report
+1. Create a [customer performance report]
 
 2. Conduct a comprehensive comparison between market performance and sales targets
 
