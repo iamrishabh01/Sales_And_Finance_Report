@@ -17,6 +17,8 @@ Evaluation of financial performance, support decision-making, and facilitate com
 
 5. Create a [Top 5 Country Report](https://github.com/iamrishabh01/Sales_And_Finance_Report/blob/main/Top%205%20Country.pdf)
 
+6. Create a [New Products Report](https://github.com/iamrishabh01/Sales_And_Finance_Report/blob/main/New%20Products.pdf)
+
 - **Purpose of sales analytics**: Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing Finance data**: Identify sales patterns and track key performance indicators (KPIs).
