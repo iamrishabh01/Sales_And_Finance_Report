@@ -33,11 +33,11 @@ Project objective:
 
 2. Create Profit and Loss (P&L) reports by [Markets](https://github.com/iamrishabh01/Sales_And_Finance_Report/blob/main/P%20%26%20L%20Market.pdf)
 
-Purpose of sales analytics: Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Purpose of sales analytics**: Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
-Importance of analyzing Finance data: Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+- **Importance of analyzing Finance data**: Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
-Role of reports: Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+- **Role of reports**: Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
