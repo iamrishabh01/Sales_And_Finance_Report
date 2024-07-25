@@ -4,7 +4,7 @@
 
 Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders. Importance of analyzing Finance data: Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting. Role of reports: Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
-#Project objective:
+# Project objective:
 
 1. Create a _customer performance report
 
@@ -16,7 +16,7 @@ Importance of analyzing sales data: Identify sales patterns and track key perfor
 
 Role of reports: Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
-#Finance Report :
+# Finance Report :
 
 Project objective:
 
@@ -30,7 +30,7 @@ Importance of analyzing Finance data: Aid in benchmarking against industry peers
 
 Role of reports: Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
-#Technical & Soft Skills:
+# Technical & Soft Skills:
 
  Proficiency in ETL methodology (Extract, Transform, Load).
  Skills to generate a date table using Power Query.
@@ -39,7 +39,7 @@ Role of reports: Align financial planning with strategic goals Instill confidenc
  Proficiency in incorporating supplementary data into an existing data model.
  Utilizing DAX to create calculated columns.
 
-#Soft Skills:
+# Soft Skills:
 
  Refined understanding of Sales & Finance Reports
  Designing user-centric reports with empathy in mind.
