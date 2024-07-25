@@ -13,6 +13,10 @@ Evaluation of financial performance, support decision-making, and facilitate com
 
 3. Create a [Division Level Report](https://github.com/iamrishabh01/Sales_And_Finance_Report/blob/main/Dvision%20Level%20Report.pdf)
 
+4. Create a [Top 5 Products Report](https://github.com/iamrishabh01/Sales_And_Finance_Report/blob/main/Top%205%20Products.pdf)
+
+5. Create a [Top 5 Country Report](https://github.com/iamrishabh01/Sales_And_Finance_Report/blob/main/Top%205%20Country.pdf)
+
 Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance.
 
 Importance of analyzing sales data: Identify sales patterns and track key performance indicators (KPIs).
@@ -25,7 +29,7 @@ Project objective:
 
 1. Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/iamrishabh01/Sales_And_Finance_Report/blob/main/P%20%26%20L%20Year.pdf) & [Months](https://github.com/iamrishabh01/Sales_And_Finance_Report/blob/main/P%20%26%20L%20Months.pdf)
 
-2. Create Profit and Loss (P&L) reports by Markets
+2. Create Profit and Loss (P&L) reports by [Markets](https://github.com/iamrishabh01/Sales_And_Finance_Report/blob/main/P%20%26%20L%20Market.pdf)
 
 Purpose of sales analytics: Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
